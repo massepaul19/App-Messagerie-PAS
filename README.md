@@ -1,5 +1,5 @@
 #----------------------------------------------------------------
-#  --------------------  APPLICATION DE MESSAGERIE -----------------------------------------------------------------
+#  --------------------  APPLICATION DE MESSAGERIE -- PAS -- -----------------------------------------------------------------
 
 **Auteurs:** 
 
@@ -25,6 +25,8 @@ git clone [https://github.com/massepaul19/App-Messagerie-PAS](https://github.com
 
 # 2. Se placer dans le répertoire du projet
 cd App-Messagerie-PAS
+
+# Utilisez ces commandes pour enregistrer et partager vos modifications
 
 # 1. Toujours synchroniser avant de commencer à travailler
 git pull
